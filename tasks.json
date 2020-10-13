@@ -1,0 +1,77 @@
+{
+  "title": "tms-timer",
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Muster zuordnen",
+      "durationMs": 1320000,
+      "completed": false
+    },
+    {
+      "id": 2,
+      "title": "Medizinisch-naturwissenschaftliches Grundverständnis",
+      "durationMs": 3600000,
+      "completed": false
+    },
+    {
+      "id": 3,
+      "title": "Schlauchfiguren",
+      "durationMs": 900000,
+      "completed": false
+    },
+    {
+      "id": 4,
+      "title": "Quantitative und formale Probleme",
+      "durationMs": 3600000,
+      "completed": false
+    },
+    {
+      "id": 5,
+      "title": "Konzentriertes und sorgfältiges Arbeiten",
+      "durationMs": 480000,
+      "completed": false
+    },
+    {
+      "id": 6,
+      "title": "Pause",
+      "durationMs": 3600000,
+      "completed": false
+    },
+    {
+      "id": 7,
+      "title": "Figuren lernen",
+      "durationMs": 240000,
+      "completed": false
+    },
+    {
+      "id": 8,
+      "title": "Fakten lernen",
+      "durationMs": 360000,
+      "completed": false
+    },
+    {
+      "id": 9,
+      "title": "Textverständnis",
+      "durationMs": 3600000,
+      "completed": false
+    },
+    {
+      "id": 10,
+      "title": "Figuren lernen",
+      "durationMs": 300000,
+      "completed": false
+    },
+    {
+      "id": 11,
+      "title": "Fakten lernen",
+      "durationMs": 420000,
+      "completed": false
+    },
+    {
+      "id": 12,
+      "title": "Diagramme und Tabellen",
+      "durationMs": 3600000,
+      "completed": false
+    }
+  ]
+}
