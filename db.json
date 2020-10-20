@@ -38,13 +38,13 @@
     },
     {
       "id": 7,
-      "title": "Figuren lernen",
+      "title": "Figuren lernen (Einprägephase)",
       "durationMs": 240000,
       "completed": false
     },
     {
       "id": 8,
-      "title": "Fakten lernen",
+      "title": "Fakten lernen (Einprägephase)",
       "durationMs": 360000,
       "completed": false
     },
@@ -56,13 +56,13 @@
     },
     {
       "id": 10,
-      "title": "Figuren lernen",
+      "title": "Figuren lernen (Reproduktionsphase)",
       "durationMs": 300000,
       "completed": false
     },
     {
       "id": 11,
-      "title": "Fakten lernen",
+      "title": "Fakten lernen (Reproduktionsphase)",
       "durationMs": 420000,
       "completed": false
     },
