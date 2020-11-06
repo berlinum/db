@@ -32,49 +32,49 @@
       "id": 5,
       "title": "Konzentriertes und sorgfältiges Arbeiten",
       "durationMs": 480000,
-      "isCompleted": false,
+      "isCompleted": true,
       "isBreak": false
     },
     {
       "id": 6,
       "title": "Pause",
       "durationMs": 5400000,
-      "isCompleted": false,
+      "isCompleted": true,
       "isBreak": true
     },
     {
       "id": 7,
       "title": "Figuren lernen (Einprägephase)",
       "durationMs": 240000,
-      "isCompleted": false,
+      "isCompleted": true,
       "isBreak": false
     },
     {
       "id": 8,
       "title": "Fakten lernen (Einprägephase)",
       "durationMs": 360000,
-      "isCompleted": false,
+      "isCompleted": true,
       "isBreak": false
     },
     {
       "id": 9,
       "title": "Textverständnis",
       "durationMs": 3600000,
-      "isCompleted": false,
+      "isCompleted": true,
       "isBreak": false
     },
     {
       "id": 10,
       "title": "Figuren lernen (Reproduktionsphase)",
       "durationMs": 300000,
-      "isCompleted": false,
+      "isCompleted": true,
       "isBreak": false
     },
     {
       "id": 11,
       "title": "Fakten lernen (Reproduktionsphase)",
       "durationMs": 420000,
-      "isCompleted": false,
+      "isCompleted": true,
       "isBreak": false
     },
     {
