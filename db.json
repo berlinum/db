@@ -38,7 +38,7 @@
     {
       "id": 6,
       "title": "Pause",
-      "durationMs": 5400000,
+      "durationMs": 3600000,
       "isCompleted": false,
       "isBreak": true
     },
