@@ -4,14 +4,14 @@
       "id": 1,
       "title": "Muster zuordnen",
       "durationMs": 1320000,
-      "isCompleted": true,
+      "isCompleted": false,
       "isBreak": false
     },
     {
       "id": 2,
       "title": "Medizinisch-naturwissenschaftliches Grundverständnis",
       "durationMs": 3600000,
-      "isCompleted": true,
+      "isCompleted": false,
       "isBreak": false
     },
     {
